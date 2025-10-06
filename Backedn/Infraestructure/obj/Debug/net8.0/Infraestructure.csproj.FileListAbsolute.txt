@@ -1,0 +1,14 @@
+E:\Local\Test_Taller\Infraestructure\bin\Debug\net8.0\Infraestructure.deps.json
+E:\Local\Test_Taller\Infraestructure\bin\Debug\net8.0\Infraestructure.dll
+E:\Local\Test_Taller\Infraestructure\bin\Debug\net8.0\Infraestructure.pdb
+E:\Local\Test_Taller\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.AssemblyReference.cache
+E:\Local\Test_Taller\Infraestructure\obj\Debug\net8.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Local\Test_Taller\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfoInputs.cache
+E:\Local\Test_Taller\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfo.cs
+E:\Local\Test_Taller\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.CoreCompileInputs.cache
+E:\Local\Test_Taller\Infraestructure\obj\Debug\net8.0\Infraestructure.dll
+E:\Local\Test_Taller\Infraestructure\obj\Debug\net8.0\refint\Infraestructure.dll
+E:\Local\Test_Taller\Infraestructure\obj\Debug\net8.0\Infraestructure.pdb
+E:\Local\Test_Taller\Infraestructure\obj\Debug\net8.0\ref\Infraestructure.dll
+E:\Local\Test_Taller\Infraestructure\bin\Debug\net8.0\Infraestructure.runtimeconfig.json
+E:\Local\Test_Taller\Infraestructure\obj\Debug\net8.0\Infraestructure.genruntimeconfig.cache
